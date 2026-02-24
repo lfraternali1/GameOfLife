@@ -2,6 +2,12 @@
 
 Una versione del **Gioco della Vita** di John Conway, sviluppata in **Processing**. 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b226b659-9cc5-446b-9540-9d8b98b0ba6f" alt="Conway Game of Life Cyberpunk" width="300">
+  <br>
+  <em>Anteprima della simulazione</em>
+</p>
+
 ## 🎮 Comandi e Input
 - **Click Sinistro (Griglia):** Disegna o elimina singole celle
 - **Tasto AVVIA/PAUSA:** Avvia o ferma la simulazione
